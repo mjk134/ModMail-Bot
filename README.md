@@ -12,3 +12,4 @@ Send and recieve message through DMs as well as images and gifs!
 # No hassle!
 There is no setup just editing bits of code for your specification.
 Don't worry it's explained with detail so you don't even need to know how to code!
+Read through the code and put in what you need where it says it.
